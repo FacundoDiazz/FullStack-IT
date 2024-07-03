@@ -20,4 +20,4 @@ Pasos para compartir un Proyecto en GitHub
 
 5. Realizamos un git pull => verifica si hay cambios en el repo remoto y los descarga.
 
-6. Realizo un git push .. url del repo
+6. Realizo un git push .. url del repoSS
