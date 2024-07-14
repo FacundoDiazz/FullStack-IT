@@ -32,3 +32,4 @@
 12- creamos un repo en git hub
 
 13- agregamos la url del repo remoto al git local gitt rmote add origin {url}
+

@@ -38,13 +38,13 @@ let provincia;
 
 
 const// respresenta una constante; no cambia l ejecucion el programa
-//EJEMPLOS:
+//EJEMPLOS;
 
-const dni =( 5267211-6 )  //Esto es una declaracion de una variable y declaracin de un valor
+//const dni =( 52672116 )  //Esto es una declaracion de una variable y declaracin de un valor
 
 // = representa asignacion de datos
 
-provincia ="montevideo"
+provincia = "montevideo"
 
 provincia = "canelones"
 
@@ -59,6 +59,6 @@ console.info (nombre + apellido + provincia)
 console.error (nombre + apellido + provincia)
 console.warn (nombre + apellido + provincia)
 
-alert( mensaje de alerta)
+// alert( mensaje de alerta)
 
 DNI = "facu"
