@@ -33,3 +33,4 @@
 
 13- agregamos la url del repo remoto al git local gitt rmote add origin {url}
 
+14- git log --oneline==> me muestra los comits en una sola linea
