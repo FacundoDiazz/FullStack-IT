@@ -1,5 +1,24 @@
 
-
 body{
-    background: blue;
+    background-color: grey;
 }
+img{
+    width: 300px;
+    height: 300px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    display: inline;
+}
+
+main{
+    display: flex;
+    flex-wrap: ;
+}
+ div{
+    margin: 10px;
+    flex-direction: row;
+ }
